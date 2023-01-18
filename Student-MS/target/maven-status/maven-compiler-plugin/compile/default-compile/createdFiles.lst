@@ -1,0 +1,9 @@
+com\infybuzz\controller\StudentController.class
+com\infybuzz\response\AddressResponse.class
+com\infybuzz\response\StudentResponse.class
+com\infybuzz\request\CreateStudentRequest.class
+com\infybuzz\service\StudentService.class
+com\infybuzz\entity\Student.class
+com\infybuzz\app\StudentServiceApplication.class
+com\infybuzz\feignclients\AddressFeignClient.class
+com\infybuzz\repository\StudentRepository.class

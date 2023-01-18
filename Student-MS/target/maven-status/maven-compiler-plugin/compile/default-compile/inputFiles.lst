@@ -1,0 +1,9 @@
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\entity\Student.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\repository\StudentRepository.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\response\AddressResponse.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\request\CreateStudentRequest.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\app\StudentServiceApplication.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\controller\StudentController.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\feignclients\AddressFeignClient.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\response\StudentResponse.java
+C:\Users\labuser\Downloads\Microservices-main\Git\Student-MS\src\main\java\com\infybuzz\service\StudentService.java
